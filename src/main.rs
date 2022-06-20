@@ -107,7 +107,7 @@ fn main() -> Result<(), io::Error> {
     //     println!("{} {:?}", i, data[i]);
     // }
 
-    // WOW remove inside the vector fking amazing, FIXME Check for out of bounds
+    // remove inside vector , FIXME Check for out of bounds
     // data.remove(1);
     //
     // for i in 0..data.len() {

@@ -1,0 +1,19 @@
+[package]
+name = "rustary"
+version = "0.1.2"
+edition = "2021"
+authors = [ "Oedon" ]
+description = "CLI Book and Audiobook Bibliothek"
+license = "MIT"
+readme = "README.md"
+exclude = ["/src/books.json"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+serde = { version = "1.0.137", features = ["derive", "serde_derive"] }
+serde_json = "1.0.81"
+strum = { version = "0.24.1", features = ["strum_macros"] }
+strum_macros = "0.24.0"
+tabled = "0.7.0"
+xdg = "2.4.1"

@@ -1,0 +1,47 @@
+[
+  {
+    "title": "The Way of Kings",
+    "series": "Stormlight Archive",
+    "author": "Brandon Sanderson",
+    "genre": "Fantasy",
+    "tags": [
+      "adventure",
+      "slow"
+    ],
+    "isbn": 3452938492,
+    "edition": "Hardcover",
+    "owned": true,
+    "read": true,
+    "rating": 4.5
+  },
+  {
+    "title": "Second",
+    "series": "Stormlight Archive",
+    "author": "Brandon Sanderson",
+    "genre": "Fantasy",
+    "tags": [
+      "adventure",
+      "slow"
+    ],
+    "isbn": 3452938492,
+    "edition": "Hardcover",
+    "owned": true,
+    "read": true,
+    "rating": 4.5
+  },
+  {
+    "title": "Third",
+    "series": "Stormlight Archive",
+    "author": "Brandon Sanderson",
+    "genre": "Fantasy",
+    "tags": [
+      "adventure",
+      "slow"
+    ],
+    "isbn": 3452938492,
+    "edition": "Hardcover",
+    "owned": true,
+    "read": true,
+    "rating": 4.5
+  }
+]
